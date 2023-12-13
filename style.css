@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+div {
+    padding: 20px;
+    background-color: #111111;
+}
+
+h1, p {
+    color: white;
+}
