@@ -1,16 +1,22 @@
+html {
+    font-family: 'Preahvihear', sans-serif;
+    font-size: 32px;
+}
+
 body {
     display: flex;
     background-color: lightblue;
     align-items: center;
     justify-content: center;
+    align-items: center;
     height: 100vh;
 }
 
 div {
     padding: 20px;
-    background-color: #111111;
+    background-color: #123456;
 }
 
 h1, p {
-    color: white;
+    color: orange;
 }
